@@ -14,7 +14,7 @@ The navbar is named after a precision surveying instrument. It doesn't decorate 
 &nbsp;
 
 <!-- Replace the paths below with your actual screenshots -->
-![AURUM Navbar — Desktop Resting State](screenshots/desktop-resting.png)
+**Desktop View**: ![Preview](assets/images/1.png)
 
 &nbsp;
 
