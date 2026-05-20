@@ -14,55 +14,16 @@ The navbar is named after a precision surveying instrument. It doesn't decorate 
 &nbsp;
 
 Desktop View: ![Preview](assets/images/1.png)
+Compressed: ![Preview](Github%20repo/assets/images/3.png)
 &nbsp;
 
 ---
 
 &nbsp;
 
-## Three Behavioral States
 
 &nbsp;
 
-### 01 — Resting
-Full identity. Logo wordmark visible. Category labels readable in uppercase DM Sans. Profile name shown. The system reveals itself completely.
-
-![Resting State](screenshots/desktop-resting.png)
-
-&nbsp;
-
-### 02 — Compressed *(on scroll)*
-The wordmark retracts. Category labels morph into italic monogram glyphs — **J · W · F · A · C** — set in Cormorant Garamond. The bar height drops from 64px to 52px. Profile name folds away. Everything contracts inward with spatial efficiency.
-
-![Compressed State](screenshots/desktop-compressed.png)
-
-&nbsp;
-
-### 03 — Command *(search focused)*
-The search lens expands from a 34px circle to a 260px field. Border shifts from neutral to antique gold. The caret color matches the category accent. `⌘K` invokes it from anywhere.
-
-![Search Expanded](screenshots/desktop-search.png)
-
-&nbsp;
-
----
-
-&nbsp;
-
-## The Accent Strip
-
-The most important microinteraction — a **1.5px horizontal line** that slides beneath the active category.
-
-- Moves fluidly between categories via `AnimatedPositioned`
-- Changes color per category (gold → steel blue → dusty rose → sage → warm tan)
-- Previews on hover, confirms on tap
-- Drives the global accent token — search caret, avatar tint, cart badge all follow
-
-![Panel Open](screenshots/desktop-panel.png)
-
-&nbsp;
-
----
 
 &nbsp;
 
