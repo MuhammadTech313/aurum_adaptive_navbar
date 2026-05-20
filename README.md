@@ -14,8 +14,7 @@ The navbar is named after a precision surveying instrument. It doesn't decorate 
 &nbsp;
 
 <!-- Replace the paths below with your actual screenshots -->
-Desktop View: ![Preview](assets/images/1.png)
-
+Desktop View: ![Preview](assets/images/1.png)Desktop View: ![Preview](Github%20repo/assets/images/1.png)
 &nbsp;
 
 ---
