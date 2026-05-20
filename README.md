@@ -14,7 +14,7 @@ The navbar is named after a precision surveying instrument. It doesn't decorate 
 &nbsp;
 
 Desktop View: ![Preview](assets/images/1.png)
-Compressed: ![Preview](Github%20repo/assets/images/3.png)
+Compressed: ![Preview](assets/images/3.png)
 &nbsp;
 
 ---
