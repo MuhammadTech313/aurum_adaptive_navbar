@@ -30,10 +30,8 @@ Compressed: ![Preview](assets/images/3.png)
 ## Mobile — The Bottom Dock
 
 The mobile surface is **not** a collapsed desktop nav. It is a purpose-built floating pill dock designed for thumb navigation on a luxury mobile experience.
-
-| Mobile Resting | Mobile Active |
-|---|---|
-| ![Mobile](screenshots/mobile-resting.png) | ![Mobile Active](screenshots/mobile-active.png) |
+ Mobile View:
+ ![Preview](assets/images/4.png)
 
 - Top bar: minimal — menu · wordmark centered · cart
 - Bottom dock: floating pill, blur background, 5 items
